@@ -40,7 +40,7 @@ print (my_first_name, my_last_name)
 
 
 
-# TODO Formatting Strings
+# TODO Formatting Strings 
 #   - Print the following items (one per line) (print using variables)
 #       - first name last name -was born in- year of birth
 #       - first name last name -was born in- year of birth. first name -enjoyed celebrating- current year
