@@ -107,7 +107,7 @@
 ># use of single quote in string
 > txt = "Scott's Dog"
 > # or
-> txt = 'Scott\s Dog'
+> txt = 'Scott\'s Dog'
 >   
 > #Using the format string method
 > age = 75
