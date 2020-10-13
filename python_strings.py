@@ -8,11 +8,10 @@
 #       -set this equal to your birth year (doesn't have to be real should be less then 100 yrs ago)
 #   - current_year
 #       -set this equal to 2020
-my_first_name = 'Scott' #Python var assignment does not require a keyword
+my_first_name = 'Scott' # Python var assignment does not require a keyword
 my_last_name = 'Hadzik'
-my_year_of_birth = 1980
+my_year_of_birth = 1980 # string or int or float python loosely typed
 current_year = 2020
-
 
 # TODO String Indexing
 #   - Print the following items (one per line) (print using variables)
